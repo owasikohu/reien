@@ -1,2 +1,8 @@
 # reien/冷炎
-Lightweight and highly extensible ActivityPub implementation
+軽量で拡張性が高いActivityPub実装
+
+# 方針
+- honoで実装
+- 軽量で低メモリ
+- プラグインで拡張可能
+- 容易に変更可能なフロントエンド
