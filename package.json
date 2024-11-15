@@ -1,0 +1,17 @@
+{
+  "name": "reien",
+  "version": "1.0.0",
+  "description": "軽量で拡張性が高いActivityPub実装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3",
+    "hono": "^4.6.10",
+    "lowdb": "^7.0.1"
+  }
+}
