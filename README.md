@@ -14,13 +14,15 @@
 - Typescript
 
 ## ランタイム
-- Deno
+- Bun
+
 ## バックエンドフレームワーク
 - hono.js
 
 ## データベース
 - lowdb
 - postgersql?
+
 ## フロントエンドフレームワーク
 
 
