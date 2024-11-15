@@ -14,10 +14,8 @@
 - Typescript
 
 ## ランタイム
-- node.js
 - Deno
-- Bun
-
+- 
 ## バックエンドフレームワーク
 - hono.js
 
